@@ -10,7 +10,7 @@
 8. cd BoF_Bedrock
 9. java -Xmx512m -jar Geyser.jar nogui
 # BoF_Bedrock Second run
-1. pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Ubuntu/ubuntu.sh && bash ubuntu.sh
+1. chmod start-ubuntu.sh
 2. ./start-ubuntu.sh
 3. cd BoF_Bedrock
 4. java -Xmx512m -jar Geyser.jar nogui
