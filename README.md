@@ -9,7 +9,7 @@
 7. git clone https://github.com/g0dm0d/BoF_Bedrock
 8. cd BoF_Bedrock
 9. java -Xmx512m -jar Geyser.jar nogui
-# BoF_Bedrock Second run
+# BoF_Bedrock next run
 1. chmod start-ubuntu.sh
 2. ./start-ubuntu.sh
 3. cd BoF_Bedrock
