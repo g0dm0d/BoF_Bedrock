@@ -1,7 +1,7 @@
 # BoF_Bedrock
 ![Bedrock](/logo.png)
 # BoF_Bedrock First install
-1. Termux in Google Play
+1. Download [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en&gl=US) in Google Play
 2. pkg install proot-distro
 3. proot-distro install debian 
 4. proot-distro login debian
