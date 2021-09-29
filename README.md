@@ -1,4 +1,5 @@
 # BoF_Bedrock
+![Bedrock](/logo.png)
 # BoF_Bedrock First install
 1. Termux in Google Play
 2. pkg install proot-distro
